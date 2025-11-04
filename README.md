@@ -37,22 +37,14 @@ The dataset used is `HeartDisease.csv`, containing patient records with features
 ├─ requirements.txt # Python dependencies
 └─ README.md # Project documentation
 
-markdown
-Copy code
-
 ## Installation
-Copy code
 1. (Optional) Create a virtual environment:
 python -m venv venv
 source venv/bin/activate # Windows: venv\Scripts\activate
 
 markdown
-Copy code
 2. Install dependencies:
 pip install -r requirements.txt
-
-markdown
-Copy code
 
 ## Usage
 - Open the Jupyter notebooks (`.ipynb`) to explore the workflow:
