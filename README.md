@@ -41,19 +41,14 @@ markdown
 Copy code
 
 ## Installation
-1. Clone the repository:
-git clone https://github.com/Supraja1423/Heart_Disease_Prediction_Using_ML.git
-cd Heart_Disease_Prediction_Using_ML
-
-cpp
 Copy code
-2. (Optional) Create a virtual environment:
+1. (Optional) Create a virtual environment:
 python -m venv venv
 source venv/bin/activate # Windows: venv\Scripts\activate
 
 markdown
 Copy code
-3. Install dependencies:
+2. Install dependencies:
 pip install -r requirements.txt
 
 markdown
